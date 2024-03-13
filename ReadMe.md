@@ -1,5 +1,5 @@
 # 💫 Sobre mim :
-🔭 Sou estudante de engenharia de software<br>🤝 Estou começando a colocar projetos no Github<br>🌱 Aprendendo Javascript, Python e Frameworks<br>⚡ Estou à procura de estágio
+🔭 Sou estudante de engenharia de software<br>🤝 Estou começando a colocar projetos no Github<br>🌱 Aprendendo Javascript, C# e Frameworks<br>⚡ Estou à procura de estágio
 
 
 ## 🌐 Redes-Sociais:
