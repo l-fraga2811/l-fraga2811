@@ -24,7 +24,7 @@
 
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1asm1n&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/l-fraga2811/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=l-fraga2811&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/l-fraga2811/dio-lab-open-source)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=l-fraga2811&icon=0&color=0)](https://visitcount.itsvg.in)
