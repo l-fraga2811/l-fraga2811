@@ -1,9 +1,9 @@
 
 # 🧠 Sobre Mim:
-🔭 Sou estudante de engenharia de software<br>🤝 Estou começando a colocar projetos no Github<br>🌱 Aprendendo Javascript, Python e C#<br>⚡ Estou à procura de estágio
+🔭 Meu nome é Lucas Fraga e sou estudante de engenharia de software<br>🤝 Estou começando a colocar projetos no Github<br>🌱 Aprendendo Javascript, Python e C#<br>⚡ Estou à procura de estágio
 
 
-## 🌐 Redes Sociais:
+# 🌐 Redes Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lcf__) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_lfraga/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fraga-2a7918253/) 
 
 # 💻 Tecnologias:
