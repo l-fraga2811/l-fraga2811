@@ -1,3 +1,4 @@
+
 # 🧠 Sobre Mim:
 🔭 Sou estudante de engenharia de software<br>🤝 Estou começando a colocar projetos no Github<br>🌱 Aprendendo Javascript, Python e C#<br>⚡ Estou à procura de estágio
 
@@ -16,6 +17,14 @@
 # 📊 Estatísicas do GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=l-fraga2811&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=l-fraga2811&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Principais Projetos
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+
+
+
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1asm1n&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/l-fraga2811/dio-lab-open-source)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=l-fraga2811&icon=0&color=0)](https://visitcount.itsvg.in)
