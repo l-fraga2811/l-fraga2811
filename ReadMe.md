@@ -24,9 +24,7 @@
 
 [comment]: <> (Most Used Langs)
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-fraga2811&layout=compact&langs_count=8&card_width=320&theme=transparent"/>
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-fraga2811&layout=compact&theme=transparent)
 
 ## Principais Projetos
 
