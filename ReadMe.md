@@ -24,7 +24,7 @@
 
 [comment]: <> (Most Used Langs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-fraga2811&hide_progress=false&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-fraga2811&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Principais Projetos
 
