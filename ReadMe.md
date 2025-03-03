@@ -3,7 +3,7 @@
 
 
 🔭 Meu nome é Lucas Fraga e sou estudante de Engenharia de Software<br>🤝 Estou começando a colocar projetos no Github<br>🌱 JS/TS, Java, C# & frameworks<br>⚡ 
-Intern at Compass UOL
+Estagiário em Compass UOL
 
 # 🌐 Redes Sociais:
 
