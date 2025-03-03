@@ -2,8 +2,8 @@
 # 🧠 Sobre Mim:
 
 
-🔭 Meu nome é Lucas Fraga e sou estudante de Engenharia de Software<br>🤝 Estou começando a colocar projetos no Github<br>🌱 Aprendendo Javascript, C# e frameworks<br>⚡ Estou à procura de estágio
-
+🔭 Meu nome é Lucas Fraga e sou estudante de Engenharia de Software<br>🤝 Estou começando a colocar projetos no Github<br>🌱 JS/TS, Java, C# & frameworks<br>⚡ 
+Intern at Compass UOL
 
 # 🌐 Redes Sociais:
 
