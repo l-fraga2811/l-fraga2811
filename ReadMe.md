@@ -28,10 +28,7 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-000000?style=for-the-badge&logo=Blazor&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C9.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
 
 ### 🛢 Databases
 
