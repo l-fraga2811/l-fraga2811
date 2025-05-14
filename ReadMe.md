@@ -29,6 +29,7 @@ Desenvolvedor Fullstack na Compass UOL
 ![Blazor](https://img.shields.io/badge/Blazor-000000?style=for-the-badge&logo=Blazor&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 🛢 Databases
 
