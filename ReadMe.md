@@ -3,7 +3,7 @@
 
 
 🔭 Meu nome é Lucas Fraga e sou estudante de Engenharia de Software<br>🌱 JS/TS, Java, C# & frameworks<br>⚡ 
-Desenvolvedor Fullstack na Compass UOL
+Desenvolvedor Fullstack
 
 # 🌐 Redes Sociais:
 
