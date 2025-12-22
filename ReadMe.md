@@ -2,7 +2,7 @@
 # 🧠 Sobre Mim:
 
 
-🔭 Meu nome é Lucas Fraga e sou estudante de Engenharia de Software<br>🌱 JS/TS, Java, C# & frameworks<br>⚡ 
+🔭 Meu nome é Lucas Fraga e sou estudante de Engenharia de Software<br>🌱 JS/TS, Go & frameworks<br>⚡ 
 Desenvolvedor Fullstack
 
 # 🌐 Redes Sociais:
@@ -52,23 +52,3 @@ Desenvolvedor Fullstack
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-fraga2811&layout=donut-vertical&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-## Principais Projetos
-
-[comment]: <> (Repositorio)
-
-<a href="https://github.com/l-fraga2811/dio-lab-open-source">
-    <img height = 200 align= "center" src="https://github-readme-stats.vercel.app/api/pin/?username=l-fraga2811&repo=dio-lab-open-source&)](https://github.com/l-fraga2811/dio-lab-open-source&theme=transparent"/>
-</a>
-
-## Minhas Contribuições
-
-[comment]: <> (Repositorio)
-
-<a href="https://github.com/l-fraga2811/dio-lab-open-source">
-    <img height = 200 align= "center" src="https://github-readme-stats.vercel.app/api/pin/?username=l-fraga2811&repo=dio-lab-open-source&)](https://github.com/l-fraga2811/dio-lab-open-source&theme=transparent"/>
-</a>
-
----
-[![](https://visitcount.itsvg.in/api?id=l-fraga2811&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
