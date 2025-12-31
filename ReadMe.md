@@ -15,6 +15,7 @@ Fullstack Web Developer
 </p>
 <a href="https://www.github.com/l-fraga2811" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/l-fraga2811?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
