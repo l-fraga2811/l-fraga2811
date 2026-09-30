@@ -17,8 +17,8 @@
 
 * 🌍 I'm based in **Paraná - BR**.
 * 🏗️ Building full-stack platforms using **TypeScript, React, Next.js, and Node.js** driven by Feature-First architecture.
-* 💡 Currently developing specialized platforms, including negotiation tools and P2P gaming market integrations.
-* 🧠 Expanding my knowledge in **Go, Fiber, and AI integrations**.
+* 💡 Currently developing specialized platforms, including negotiation tools, scalable systems with GCP/AWS infra and P2P gaming market integrations.
+* 🧠 Expanding my knowledge in **Go and Fiber**.
 * 👥 I'm always open to collaborating on robust and scalable Web Projects.
 
 ---
